@@ -36,6 +36,10 @@ Next we create a Dashboard which is spread across 3 pages and which spans the 3 
 3.	Shipping and Delivery
 
 ### Executive Summary
+
+![Executive Summary](https://github.com/VipulSharma95/Portfolio_Projects/blob/main/Global%20Supply%20Chain%20Power%20BI/Supply%20Chain%20Power%20BI_Page1.jpg)
+
+
 This is the first page of our Dashboard, and it depicts the information which would concern the higher management by presenting an overall view of company’s performance. This page contains metrics for Total Orders, Total Sales, On-Time Delivery Percentage and Order Profit Margin along with the visualizations of `Sales by Order Country`, `Total Profit by Market`, `Total Sales over Time`. This page also contains 2 slicers for `Order Date` and `Department` to see visualizations for specific Dates and Departments.
 
 #### Observations 
@@ -50,6 +54,9 @@ This is the first page of our Dashboard, and it depicts the information which wo
 - The drastic fall towards the end of the period in Total Sales graph shows that we do not have complete data for January 2018.
 
 ### Customer Insights
+
+![Customer Insights Dashboard](https://github.com/VipulSharma95/Portfolio_Projects/blob/main/Global%20Supply%20Chain%20Power%20BI/Supply%20Chain%20Power%20BI_Page2.jpg)
+
 This is the second page of our Dashboard, it depicts the information about customer base of the company which would be important to Customer Acquisition and Marketing Team by presenting `Total Sales by Customer Segments`, `Customers by Country`, `Top 10 Customers by Sales` and `Customers by Transaction Type`. This page also contains 2 slicers as described for the previous page. 
 
 #### Observations
@@ -63,6 +70,9 @@ This is the second page of our Dashboard, it depicts the information about custo
 - Since Customers primarily use debit and transfer as payment medium, further technological advancements should be done for these payment mediums to facilitate customers with faster and hassle-free payments. 
 
 ### Shipping and Delivery
+
+![Shipping and Delivery](https://github.com/VipulSharma95/Portfolio_Projects/blob/main/Global%20Supply%20Chain%20Power%20BI/Supply%20Chain%20Power%20BI_Page3.jpg)
+
 This is the last page of our Dashboard, it depicts the information about the performance of supply chain and logistics of the company which would be important to Operations and Supply Chain Team by presenting metrics of `Average Order Processing Time`, `Average Shipping Delay`, `Late Delivery Risk` and visualizations of `Late Delivery Risk by Markets`, `Orders by Delivery Status`, `Shipping Days (Real vs Scheduled)` and `Shipping Delay by Order Country`. This page also contains 2 slicers as described for the first page. 
 
 #### Observations
