@@ -27,7 +27,7 @@ The original dataset contained 53 columns, out of which we removed 6 columns, na
 - Product Description – This column is empty and does not contain any value. 
 - Order Zipcode – This column has 97% of empty values, therefore not having sufficient data to keep this column for even any future analysis purposes.
 
-The first column of this dataset “Type” has been changed to “Transaction Type” for clarity purposes. 
+The first column of this dataset “Type” has been changed to “Transaction Type” for clarity purposes. There are a many columns present in the dataset which are not used in the current analysis and they are kept as a scope for future analysis.
 
 ## Analysis and Insights
 Next we create a Dashboard which is spread across 3 pages and which spans the 3 areas namely :  
