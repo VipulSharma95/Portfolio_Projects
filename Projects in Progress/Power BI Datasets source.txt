@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/cameronseamons/electronic-sales-sep2023-sep2024 - Electronic Sales Dataset
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final - Superstore Dataset
+
+Power BI datasets
